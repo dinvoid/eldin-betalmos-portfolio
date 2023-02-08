@@ -5,7 +5,7 @@ import {AiFillHtml5,AiFillGithub,AiOutlineFileWord} from "react-icons/ai";
 import {IoLogoCss3} from "react-icons/io";
 import {DiJavascript1} from  "react-icons/di";
 import {BsFillBootstrapFill} from  "react-icons/bs";
-import {SiJquery,SiPostman,SiMicrosoftexcel,SiMysql} from  "react-icons/si";
+import {SiJquery,SiPostman,SiMysql} from  "react-icons/si";
 import {DiNodejsSmall,DiPhp,DiJava,DiMongodb} from  "react-icons/di";
 
 import {FaAward,FaReact} from  "react-icons/fa";

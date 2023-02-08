@@ -1,12 +1,10 @@
 import React from 'react'
 import './project.css'
-import {Link} from 'react-router-dom';
 import portfolio from "../../assets/portfolio.png";
 import weather from "../../assets/weatherapp1.png";
 import todotoday from "../../assets/todo-today.png";
 import guessnum from "../../assets/guessnum.png";
 import qoutes from "../../assets/qoutes.png";
-import Project6 from "../../assets/crud1.png";
 import recipeblog from "../../assets/recipeblog.png";
 const Project = () => {
   return (
